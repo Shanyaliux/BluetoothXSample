@@ -1,0 +1,3 @@
+include ':BluetoothX'
+include ':app'
+rootProject.name = "BluetoothXSample"
